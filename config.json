@@ -15,6 +15,11 @@
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
+    "jisu": {
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "name": "极速资源",
+      "detail": "https://jszyapi.com"
+    },
     "bfzy": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "暴风资源"
